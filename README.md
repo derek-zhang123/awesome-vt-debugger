@@ -1,4 +1,4 @@
-收集VT调试器相关项目和博客，学习交流QQ群：495694319
+收集VT调试器相关项目
 
 # VT调试器
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser)：反检测调试
